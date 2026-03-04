@@ -1,5 +1,6 @@
 # initial Go programs for learning fundamentals
 
+i'm study go with: https://gobyexample.com
 
 generic utility command:
 ```sh
